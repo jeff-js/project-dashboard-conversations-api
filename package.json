@@ -4,7 +4,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "nodemon -L src/server.js",
-    "start": "NODE_ENV=production node src/server"
+    "start": "node src/server"
   },
   "keywords": [],
   "author": "",
